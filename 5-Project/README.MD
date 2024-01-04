@@ -1,4 +1,4 @@
-### Day #5 Detect Device Battery
+###  #5 Detect Device Battery
 
 # Screenshot
 Here we have project screenshot :
