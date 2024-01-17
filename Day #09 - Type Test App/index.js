@@ -80,9 +80,7 @@ const timeReduce = () => {
 	timer = setInterval(updateTimer, 1000)
 }
 
-//End test
 const displayResult = () => {
-	//Display result div
 	document.querySelector('.result').style.display = 'block'
 	clearInterval(timer)
 	document.getElementById('stop-test').style.display = 'none'
@@ -99,7 +97,7 @@ const displayResult = () => {
 		) + '%'
 }
 
-//Start test
+
 const startTest = () => {
 	mistakes = 0
 	timer = ''
